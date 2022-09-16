@@ -1,0 +1,212 @@
+.first-section{
+  background-color: #EAF6F6;
+  text-align: center;
+  color:#40514E;
+  padding-top:70px;
+  font-family: 'Merriweather',serif;
+}
+h1{
+  /* 16px = 100%= 1em */
+  font-size: 2.5rem;
+  margin: 50px, auto , 0, auto;
+  color:#66BFBF;
+  font-family:'Sacramento',serif;
+}
+h2{
+  color:#66BFBF;
+  margin-top: 0;
+  font-family:'Montserrat',serif;
+  font-weight:bold;
+  text-align: center;
+  padding-bottom:10px;
+}
+
+}
+h3{
+  color:#11999E;
+  font-family:'Montserrat',serif;
+  font-weight: bolder;
+
+}
+p{
+  font-family:'Merriweather',serif;
+ line-height: 2;
+
+}
+
+body{
+  margin:0;
+}
+.first{
+  position:absolute;
+  height: auto;
+  right:100px;
+  max-width: 10%;
+
+
+}
+.second{
+  position:absolute;
+  max-width: 10%;
+  height: auto;
+  left:140px;
+  top:220px;
+  border-radius:43px;
+
+}
+.third{
+  height:auto;
+  width:30%;
+}
+.profile{
+  padding-top: 30px;
+  background-color:#F9F9F9;
+  text-align: center;
+}
+.Profile{
+  width:10%;
+  height:10%;
+}
+.intro{
+  width:40%;
+  margin:auto;
+}
+hr{
+
+  border-style:none;
+  border-top-style:dotted;
+  border-color: grey;
+  border-width:6px;
+  margin:50px auto;
+  width:5%;
+
+}
+.skills{
+ width:50%;
+ margin:30px auto 30px auto;
+ text-align:left;
+ line-height: 2;
+
+}
+.skillimage{
+  width:25%;
+  float:left;
+  padding:30px;
+  margin-bottom: 50px;
+
+}
+.html{
+  width:25%;
+  float:right;
+  padding:30px;
+    margin-bottom: 50px;
+}
+.css{
+  width:25%;
+  float:left;
+  padding:30px;
+    margin-bottom: 50px;
+
+}
+.problemsolving{
+  width:25%;
+  float:right;
+  padding:30px;
+    margin-bottom: 50px;
+}
+.developer{
+  width:25%;
+  float:left;
+  padding:30px;
+    margin-bottom: 30px;
+
+}
+.vision{
+  width:25%;
+  float:right;
+  padding:30px;
+    margin-bottom: 30px;
+}
+
+.Education{
+  text-align:center;
+
+  margin-top: 2px;
+    /* background-color: #FFB3B3; */
+}
+.Achivements{
+  text-align:center;
+
+  margin-top: 0;
+  padding-bottom:20px;
+
+}
+a{
+  font-weight: bolder;
+  font-size: 17px;
+  padding-right: 13px;
+  color:#11999E;
+  margin:20px 20px;
+  text-decoration: none;
+  display: inline-block;
+    /* background-color: #FFB3B3; */
+}
+a:hover{
+  color:#EAF6F6;
+}
+.projects{
+  text-align: center;
+
+  padding-bottom: 20px;
+    /* background-color: #FFB3B3; */
+}
+.Languages{
+  text-align: center;
+
+  padding-bottom: 20px;
+    /* background-color: #FFB3B3; */
+
+}
+.contact{
+  text-align: center;
+
+  padding-bottom: 20px;
+  /* background-color: #FFB3B3; */
+
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 16;
+  -moz-border-radius: 16;
+  border-radius: 16px;
+  font-family: Arial;
+  color: #11cdd4;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-bottom: 30px;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  text-decoration: none;
+}
+.bottom{
+
+padding:50px 0 50px;
+background-color: #66BFBF;
+
+
+}
+
+.contactmessage{
+  width:40%;
+  margin: 40px auto 60px;
+
+}
